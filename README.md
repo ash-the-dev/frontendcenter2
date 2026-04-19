@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Lab – UI Development & Practice
 
-## Getting Started
+A collection of frontend builds focused on improving UI design, responsiveness, and clean component structure.
 
-First, run the development server:
+This repo acts as my workspace for experimenting with layouts, refining visual details, and getting faster at turning ideas into working interfaces.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What’s inside
+- Responsive layouts across multiple screen sizes
+- Reusable UI components
+- Design recreations and small builds
+- Experiments focused on improving frontend fundamentals
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- React
+- JavaScript
+- HTML / CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Why this exists
+This isn’t a single finished product.  
+It’s where I actively improve.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Each build focuses on writing cleaner code, structuring components better, and making interfaces feel more polished and usable.
 
-## Learn More
+## Current focus
+- Cleaner component structure
+- Better spacing and layout consistency
+- Improving overall UI quality to match production standards
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is an active workspace where I build, test, and improve continuously.
